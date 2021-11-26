@@ -1,4 +1,4 @@
-# Algorithm 연습 (백준)
+# Algorithm 연습 ([백준](https://www.acmicpc.net/))
 
 |주차|알고리즘|문제번호|
 |-|-|-|
