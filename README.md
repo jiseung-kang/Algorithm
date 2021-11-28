@@ -1,4 +1,4 @@
-# Algorithm 연습 ([백준](https://www.acmicpc.net/))
+# 멋쟁이사자처럼 코테스터디 ([백준](https://www.acmicpc.net/)) 2021.11~
 
 |주차|알고리즘|문제|
 |-|-|-|
