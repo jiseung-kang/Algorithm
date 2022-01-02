@@ -1,0 +1,45 @@
+# 유기농 배추
+
+## 문제 이해
+단지번호붙이기와 비슷한 문제. 단지 개수를 구하는 것과 같다.
+
+|생각한 구현 방법|설명|
+|-|-|
+|BFS|연결된 그룹의 개수를 너비우선탐색으로 구한다.|
+
+## 코드
+```
+tc = int(input())
+# 이동할 좌표
+dx = [-1,1,0,0]
+dy = [0,0,-1,1]
+
+def bfs(a, b):
+  queue = [[a,b]]
+  while queue:
+    x, y = queue[0][0], queue[0][1]
+    del queue[0]
+    for i in range(4):
+      nx = x + dx[i]
+      ny = y + dy[i]
+      if nx >= 0 and nx < N and ny >= 0 and ny < M:
+        # 탐색된 구역을 탐색처리하고 너비우선탐색 queue에 추가해나간다.
+        if field[nx][ny] == 1:
+          field[nx][ny] = -1
+          queue.append([nx, ny])
+            
+for _ in range(tc):
+  ans = 0
+  M, N, K = map(int, input().split())
+  field = [[0 for _ in range(M)] for _ in range(N)]
+  for _ in range(K):
+    i, j = map(int, input().split())
+    field[j][i] = 1
+  for i in range(N):
+    for j in range(M):
+      if field[i][j] == 1:
+        bfs(i,j)
+        # bfs를 실행한 횟수 = 연결된 배추 그룹의 개수(필요한 지렁이 개수)
+        ans += 1
+  print(ans)
+```
