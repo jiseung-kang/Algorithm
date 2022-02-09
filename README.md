@@ -16,8 +16,8 @@
 | 2 | [문자열 뒤집기](https://leetcode.com/problems/reverse-string/) | ★ | 6장. 문자열 조작 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A1%B0%EC%9E%91/reverse-string.md) |
 | 3 | [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/) | ★ | 6장. 문자열 조작 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A1%B0%EC%9E%91/reorder-data-in-log-files.md) |
 | 4 | [가장 흔한 단어](https://leetcode.com/problems/most-common-word/) | ★ | 6장. 문자열 조작 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A1%B0%EC%9E%91/most-common-word.md) |
-| 5 | [그룹 애너그램](https://leetcode.com/problems/group-anagrams/) | ★★ | 6장. 문자열 조작 |  |
-| 6 | [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 6장. 문자열 조작 |  |
+| 5 | [그룹 애너그램](https://leetcode.com/problems/group-anagrams/) | ★★ | 6장. 문자열 조작 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A1%B0%EC%9E%91/group-anagrams.md) |
+| 6 | [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 6장. 문자열 조작 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A1%B0%EC%9E%91/longest-palindromic-substring.md) |
 | 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 |  |
 | 8 | [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 |  |
 | 9 | [세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 |  |
