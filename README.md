@@ -18,9 +18,9 @@
 | 4 | [가장 흔한 단어](https://leetcode.com/problems/most-common-word/) | ★ | 6장. 문자열 조작 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A1%B0%EC%9E%91/most-common-word.md) |
 | 5 | [그룹 애너그램](https://leetcode.com/problems/group-anagrams/) | ★★ | 6장. 문자열 조작 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A1%B0%EC%9E%91/group-anagrams.md) |
 | 6 | [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 6장. 문자열 조작 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A1%B0%EC%9E%91/longest-palindromic-substring.md) |
-| 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 |  |
-| 8 | [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 |  |
-| 9 | [세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 |  |
+| 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/two-sum.md) |
+| 8 | [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/trapping-rain-water.md) |
+| 9 | [세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/3sum.md) |
 | 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | ★ | 7장. 배열 |  |
 | 11 | [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 |  |
 | 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 |  |
