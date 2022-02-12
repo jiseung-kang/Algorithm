@@ -21,9 +21,9 @@
 | 7 | [두 수의 합](https://leetcode.com/problems/two-sum/) | ★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/two-sum.md) |
 | 8 | [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/) | ★★★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/trapping-rain-water.md) |
 | 9 | [세 수의 합](https://leetcode.com/problems/3sum/) | ★★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/3sum.md) |
-| 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | ★ | 7장. 배열 |  |
-| 11 | [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 |  |
-| 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 |  |
+| 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | ★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/array-partition-i.md) |
+| 11 | [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/product-of-array-except-self.md) |
+| 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/best-time-to-buy-and-sell-stock.md) |
 | 13 | [팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) | ★ | 8장. 연결 리스트 |  |
 | 14 | [두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 8장. 연결 리스트 |  |
 | 15 | [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 |  |
