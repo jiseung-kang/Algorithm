@@ -24,9 +24,9 @@
 | 10 | [배열 파티션 I](https://leetcode.com/problems/array-partition-i/) | ★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/array-partition-i.md) |
 | 11 | [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/) | ★★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/product-of-array-except-self.md) |
 | 12 | [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ★ | 7장. 배열 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%B0%B0%EC%97%B4/best-time-to-buy-and-sell-stock.md) |
-| 13 | [팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) | ★ | 8장. 연결 리스트 |  |
-| 14 | [두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 8장. 연결 리스트 |  |
-| 15 | [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 |  |
+| 13 | [팰린드롬 연결 리스트](https://leetcode.com/problems/palindrome-linked-list/) | ★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/palindrome-linked-list.md) |
+| 14 | [두 정렬 리스트의 병합](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/merge-two-sorted-lists.md) |
+| 15 | [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list/) | ★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/reverse-linked-list.md) |
 | 16 | [두 수의 덧셈](https://leetcode.com/problems/add-two-numbers/) | ★★ | 8장. 연결 리스트 |  |
 | 17 | [페어의 노드 스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) | ★★ | 8장. 연결 리스트 |  |
 | 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 |  |
