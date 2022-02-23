@@ -31,12 +31,12 @@
 | 17 | [페어의 노드 스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) | ★★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/swap-nodes-in-pairs.md) |
 | 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/odd-even-linked-list.md) |
 | 19 | [역순 연결 리스트 II](https://leetcode.com/problems/reverse-linked-list-ii/) | ★★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/reverse-linked-list-ii.md) |
-| 20 | [유효한 괄호](https://leetcode.com/problems/valid-parentheses/) | ★ | 9장. 스택, 큐 |  |
-| 21 | [중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) | ★★★ | 9장. 스택, 큐 |  |
-| 22 | [일일 온도](https://leetcode.com/problems/daily-temperatures/) | ★★ | 9장. 스택, 큐 |  |
-| 23 | [큐를 이용한 스택 구현](https://leetcode.com/problems/implement-stack-using-queues/) | ★ | 9장. 스택, 큐 |  |
-| 24 | [스택을 이용한 큐 구현](https://leetcode.com/problems/implement-queue-using-stacks/) | ★ | 9장. 스택, 큐 |  |
-| 25 | [원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) | ★★ | 9장. 스택, 큐 |  |
+| 20 | [유효한 괄호](https://leetcode.com/problems/valid-parentheses/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/valid-parentheses.md) |
+| 21 | [중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) | ★★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/remove-duplicate-letters.md) |
+| 22 | [일일 온도](https://leetcode.com/problems/daily-temperatures/) | ★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/daily-temperatures.md) |
+| 23 | [큐를 이용한 스택 구현](https://leetcode.com/problems/implement-stack-using-queues/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/implement-stack-using-queues.md) |
+| 24 | [스택을 이용한 큐 구현](https://leetcode.com/problems/implement-queue-using-stacks/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/implement-queue-using-stacks.md) |
+| 25 | [원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) | ★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/design-circular-queue.md) |
 | 26 | [원형 데크 디자인](https://leetcode.com/problems/design-circular-deque/) | ★★ | 10장. 데크, 우선 순위 큐 |  |
 | 27 | [k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) | ★ | 10장. 데크, 우선 순위 큐 |  |
 | 28 | [해시맵 디자인](https://leetcode.com/problems/design-hashmap/) | ★ | 11장. 해시 테이블 |  |
