@@ -31,18 +31,18 @@
 | 17 | [페어의 노드 스왑](https://leetcode.com/problems/swap-nodes-in-pairs/) | ★★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/swap-nodes-in-pairs.md) |
 | 18 | [홀짝 연결 리스트](https://leetcode.com/problems/odd-even-linked-list/) | ★★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/odd-even-linked-list.md) |
 | 19 | [역순 연결 리스트 II](https://leetcode.com/problems/reverse-linked-list-ii/) | ★★ | 8장. 연결 리스트 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/reverse-linked-list-ii.md) |
-| 20 | [유효한 괄호](https://leetcode.com/problems/valid-parentheses/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/valid-parentheses.md) |
-| 21 | [중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) | ★★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/remove-duplicate-letters.md) |
-| 22 | [일일 온도](https://leetcode.com/problems/daily-temperatures/) | ★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/daily-temperatures.md) |
-| 23 | [큐를 이용한 스택 구현](https://leetcode.com/problems/implement-stack-using-queues/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/implement-stack-using-queues.md) |
-| 24 | [스택을 이용한 큐 구현](https://leetcode.com/problems/implement-queue-using-stacks/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/implement-queue-using-stacks.md) |
-| 25 | [원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) | ★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/design-circular-queue.md) |
-| 26 | [원형 데크 디자인](https://leetcode.com/problems/design-circular-deque/) | ★★ | 10장. 데크, 우선 순위 큐 |  |
-| 27 | [k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) | ★ | 10장. 데크, 우선 순위 큐 |  |
-| 28 | [해시맵 디자인](https://leetcode.com/problems/design-hashmap/) | ★ | 11장. 해시 테이블 |  |
-| 29 | [보석과 돌](https://leetcode.com/problems/jewels-and-stones/) | ★ | 11장. 해시 테이블 |  |
-| 30 | [중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★ | 11장. 해시 테이블 |  |
-| 31 | [상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) | ★★ | 11장. 해시 테이블 |  |
+| 20 | [유효한 괄호](https://leetcode.com/problems/valid-parentheses/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%8A%A4%ED%83%9D%2C%ED%81%90/valid-parentheses.md) |
+| 21 | [중복 문자 제거](https://leetcode.com/problems/remove-duplicate-letters/) | ★★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%8A%A4%ED%83%9D%2C%ED%81%90//%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/remove-duplicate-letters.md) |
+| 22 | [일일 온도](https://leetcode.com/problems/daily-temperatures/) | ★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%8A%A4%ED%83%9D%2C%ED%81%90/daily-temperatures.md) |
+| 23 | [큐를 이용한 스택 구현](https://leetcode.com/problems/implement-stack-using-queues/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%8A%A4%ED%83%9D%2C%ED%81%90/implement-stack-using-queues.md) |
+| 24 | [스택을 이용한 큐 구현](https://leetcode.com/problems/implement-queue-using-stacks/) | ★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%8A%A4%ED%83%9D%2C%ED%81%90/implement-queue-using-stacks.md) |
+| 25 | [원형 큐 디자인](https://leetcode.com/problems/design-circular-queue/) | ★★ | 9장. 스택, 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EC%8A%A4%ED%83%9D%2C%ED%81%90/design-circular-queue.md) |
+| 26 | [원형 데크 디자인](https://leetcode.com/problems/design-circular-deque/) | ★★ | 10장. 데크, 우선 순위 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%8D%B0%ED%81%AC%2C%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90/design-circular-deque.md) |
+| 27 | [k개 정렬 리스트 병합](https://leetcode.com/problems/merge-k-sorted-lists/) | ★ | 10장. 데크, 우선 순위 큐 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EB%8D%B0%ED%81%AC%2C%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90/merge-k-sorted-lists.md) |
+| 28 | [해시맵 디자인](https://leetcode.com/problems/design-hashmap/) | ★ | 11장. 해시 테이블 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/design-hashmap.md) |
+| 29 | [보석과 돌](https://leetcode.com/problems/jewels-and-stones/) | ★ | 11장. 해시 테이블 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/jewels-and-stones.md) |
+| 30 | [중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★ | 11장. 해시 테이블 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/longest-substring-without-repeating-characters.md) |
+| 31 | [상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) | ★★ | 11장. 해시 테이블 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/top-k-frequent-elements.md) |
 | 32 | [섬의 개수](https://leetcode.com/problems/number-of-islands/) | ★★ | 12장. 그래프 |  |
 | 33 | [전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★ | 12장. 그래프 |  |
 | 34 | [순열](https://leetcode.com/problems/permutations/) | ★★ | 12장. 그래프 |  |
