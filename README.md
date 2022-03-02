@@ -43,11 +43,11 @@
 | 29 | [보석과 돌](https://leetcode.com/problems/jewels-and-stones/) | ★ | 11장. 해시 테이블 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/jewels-and-stones.md) |
 | 30 | [중복 문자 없는 가장 긴 부분 문자열](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★ | 11장. 해시 테이블 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/longest-substring-without-repeating-characters.md) |
 | 31 | [상위 K 빈도 요소](https://leetcode.com/problems/top-k-frequent-elements/) | ★★ | 11장. 해시 테이블 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94/top-k-frequent-elements.md) |
-| 32 | [섬의 개수](https://leetcode.com/problems/number-of-islands/) | ★★ | 12장. 그래프 |  |
-| 33 | [전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★ | 12장. 그래프 |  |
-| 34 | [순열](https://leetcode.com/problems/permutations/) | ★★ | 12장. 그래프 |  |
-| 35 | [조합](https://leetcode.com/problems/combinations/) | ★★ | 12장. 그래프 |  |
-| 36 | [조합의 합](https://leetcode.com/problems/combination-sum/) | ★★ | 12장. 그래프 |  |
+| 32 | [섬의 개수](https://leetcode.com/problems/number-of-islands/) | ★★ | 12장. 그래프 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EA%B7%B8%EB%9E%98%ED%94%84/number-of-islands.md) |
+| 33 | [전화 번호 문자 조합](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★ | 12장. 그래프 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EA%B7%B8%EB%9E%98%ED%94%84/letter-combinations-of-a-phone-number.md) |
+| 34 | [순열](https://leetcode.com/problems/permutations/) | ★★ | 12장. 그래프 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EA%B7%B8%EB%9E%98%ED%94%84/permutations.md) |
+| 35 | [조합](https://leetcode.com/problems/combinations/) | ★★ | 12장. 그래프 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EA%B7%B8%EB%9E%98%ED%94%84/combinations.md) |
+| 36 | [조합의 합](https://leetcode.com/problems/combination-sum/) | ★★ | 12장. 그래프 | [풀이](https://github.com/jiseung-kang/Algorithm/blob/main/leetcode/%EA%B7%B8%EB%9E%98%ED%94%84/combination-sum.md) |
 | 37 | [부분 집합](https://leetcode.com/problems/subsets/) | ★★ | 12장. 그래프 |  |
 | 38 | [일정 재구성](https://leetcode.com/problems/reconstruct-itinerary/) | ★★ | 12장. 그래프 |  |
 | 39 | [코스 스케줄](https://leetcode.com/problems/course-schedule/) | ★★ | 12장. 그래프 |  |
