@@ -1,7 +1,5 @@
 function solution(sizes) {
-    var w = 0;
-    var h = 0;
-    
+    var w = h =0;
     sizes.map((size) => {
         var [width, height] = size
         if (width < height) {
@@ -17,8 +15,6 @@ function solution(sizes) {
             h = height
         }
     })
-    
-    
     
     return w * h;
 }
