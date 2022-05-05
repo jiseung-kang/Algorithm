@@ -1,0 +1,52 @@
+def solution(new_id):
+	
+	answer = ''
+	answer = new_id.lower()
+	if answer == '':
+				answer = 'a'
+	for i in answer:
+		if i.isalpha() == False and i.isdigit() == False and i not in ['-','_','.']:
+			answer = answer.replace(i,'')
+			if answer == '':
+				answer = 'a'
+
+	while True:
+		if '..' not in answer:
+			break
+		answer = answer.replace('..','.')
+		if answer == '':
+			answer = 'a'
+
+	while True:
+		if answer[0] == '.':
+			answer = answer[1:]
+			if answer == '':
+				answer = 'a'
+		else:
+			break
+
+	while True:
+		if answer[len(answer)-1] == '.':
+			answer = answer[:len(answer)-1]
+			if answer == '':
+				answer = 'a'
+		else:
+			break
+
+	if len(answer) >= 16:
+		answer = answer[:15]
+		while True:
+			if answer[len(answer)-1] == '.':
+				answer = answer[:len(answer)-1]
+			if answer == '':
+				answer = 'a'
+			else:
+				break
+	
+	if len(answer) <= 2:
+		if answer == '':
+			answer = 'a'
+		while len(answer) != 3:
+			answer += answer[-1]
+
+	return answer
