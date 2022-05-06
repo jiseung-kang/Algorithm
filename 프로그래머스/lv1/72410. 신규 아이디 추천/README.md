@@ -1,10 +1,10 @@
 # [level 1] 신규 아이디 추천 - 72410 
 
-[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/72410?language=python3) 
+[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/72410#qna) 
 
 ### 성능 요약
 
-메모리: 10.2 MB, 시간: 0.25 ms
+메모리: 30 MB, 시간: 0.78 ms
 
 ### 구분
 
