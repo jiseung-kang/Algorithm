@@ -1,0 +1,42 @@
+def solution(p):
+
+	answer = ''
+	
+	if p == '':
+		return ''
+	u = ''
+	v = ''
+	cc = 0
+	oc = 0
+	while True:
+		if cc!=0 and cc == oc:
+			break
+		if p[0] == '(':
+			oc += 1
+			u += p[0]
+		elif p[0] == ')':
+			cc += 1
+			u += p[0]
+		p = p.replace(p[0],'',1)
+
+	v = p
+	stack = []
+	for i in u:
+		if i == '(':
+			stack.append(i)
+		elif i == ')':
+			if stack != [] and stack.pop() == '(':
+				continue
+			else:
+				a = '(' + solution(v) +')'
+				u = u[1:-1]
+				for i in u:
+					if i == '(':
+						a += ')'
+					else:
+						a += '('
+				return a
+
+	answer = u + solution(v)
+
+	return answer
