@@ -1,0 +1,40 @@
+import itertools
+def solution(orders, course):
+	
+	answer = []
+
+	def most(lst):
+		count = {}
+		for i in lst:
+			if i in count.keys():
+				count[i] += 1
+			else:
+				count[i] = 1
+		count = sorted(count.items(), key=lambda x: x[1], reverse = True)
+		re = []
+		if count == [] or count[0][1] < 2:
+			return re
+
+		maxc = count[0][1]
+		for i in count:
+			tmp = ""
+			if i[1] == maxc:
+				for j in i[0]:
+					tmp += j
+				re.append(tmp)
+			else:
+				return re
+		return re
+
+	for i in course:
+		arr = []
+		for j in orders:
+			j = ''.join(sorted(list(j)))
+			tmp = list(itertools.combinations(j, i))
+			for k in tmp:
+				arr.append(k)
+		answer += (most(arr))
+	
+	answer.sort()
+	
+	return answer
