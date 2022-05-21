@@ -1,0 +1,16 @@
+def solution(absolutes, signs):
+	answer = 123456789
+	tmp = 0
+
+	print(signs)
+	
+	for i in range(len(absolutes)):
+		if signs[i] == True:
+			tmp += absolutes[i]
+		else:
+			tmp -= absolutes[i]
+    
+	answer = tmp
+	print(answer)
+    
+	return answer
