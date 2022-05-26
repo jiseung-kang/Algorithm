@@ -1,10 +1,10 @@
 # [level 2] 괄호 변환 - 60058 
 
-[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60058?language=python3) 
+[문제 링크](https://programmers.co.kr/learn/courses/30/lessons/60058) 
 
 ### 성능 요약
 
-메모리: 10.2 MB, 시간: 0.49 ms
+메모리: 29.9 MB, 시간: 0.30 ms
 
 ### 구분
 
@@ -119,10 +119,6 @@
 </ul></li>
 <li>처음에 그대로 둔 문자열에 반환된 문자열을 이어 붙이면 <code>"()"</code> + <code>"(())()"</code> = <code>"()(())()"</code>가 됩니다.</li>
 </ul>
-
-<hr>
-
-<p><u>혼자 풀기가 막막하다면, 풀이 강의를 들어보세요</u> <a href="https://programmers.co.kr/learn/courses/10336?utm_source=programmers&amp;utm_medium=test_course10336&amp;utm_campaign=course_10336" target="_blank" rel="noopener">(클릭)</a></p>
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
