@@ -8,7 +8,6 @@ var isValid = function(s) {
         const c = s[i]
         if (c === "(" || c === "{" || c === "[") stack.push(c)
         else{
-            if(stack.length === 0) return false
             const cur = stack.pop()
             if (c === ")" && cur === "(" || c === "}" && cur === "{" || c === "]" && cur === "[" ) continue
             return false
